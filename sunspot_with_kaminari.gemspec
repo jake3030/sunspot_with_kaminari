@@ -3,13 +3,13 @@ $:.push File.expand_path("../lib", __FILE__)
 require "sunspot_with_kaminari/version"
 
 Gem::Specification.new do |s|
-  s.name        = "sunspot_with_kaminari"
+  s.name        = "jake3030-sunspot_with_kaminari"
   s.version     = SunspotWithKaminari::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Richard Millan"]
-  s.email       = ["richardiux@gmail.com"]
-  s.homepage    = "https://github.com/richardiux/sunspot_with_kaminari"
-  s.summary     = %q{Pagination with kaminari for sunspot}
+  s.authors     = ["Jake Varghese"]
+  s.email       = ["jake@flvorful.com"]
+  s.homepage    = "https://github.com/jake3030/sunspot_with_kaminari"
+  s.summary     = %q{Pagination with kaminari for sunspot with support for paginatablearray}
   s.description = %q{Extends sunspot to be compatible with kaminari for pagination}
 
   s.rubyforge_project = "sunspot_with_kaminari"
