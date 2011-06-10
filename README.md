@@ -2,6 +2,8 @@
 
 sunspot_with_kaminari extends sunspot to have the required methods for pagination with kaminari.
 
+jake3030 version*  Adding support for kaminari paginatable array in results collection.
+
 ### Installation & Usage
 
 on `Gemfile`
